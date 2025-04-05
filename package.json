@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@hint/hint-no-inline-styles": "^1.0.19",
     "terser": "^5.39.0",
     "vite": "^6.2.0"
   },
